@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #333333;
+    /* width: 1450px; */
+    margin: auto;
+}
+.header{
+    width: auto;
+    height: 100px;
+}
+.header a img {
+    height: 100px;
+    float: left;
+}
+.header ul a {
+    text-decoration: none;
+    list-style: none;
+    float: left;
+    padding-left: 50px;
+    margin-top: 75px;
+    font-size: 30px;
+    color: white;
+}
+.header ul a :hover{
+    color: yellowgreen;
+}
+.header button{
+    height: 30px;
+    border-radius: 30px;
+    float: right
+}
+.main{
+    padding-top: 80px;
+    width: auto;
+    height: 300px;
+}
+.left-main{
+    width: 900px;
+    height: 1000px;
+    float: left;
+}
+#quotes{
+    font-size: 30px;
+    color: white;
+}
+.right-main img{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+.right-main{
+    width: 1020px;
+    height: 1000px;
+    float: right;
+    color: white;
+}
+.right-main em span{
+    font-size: 40px;
+}
+.right-main em span {
+    padding-top: 30px;
+}
+footer{
+    width: auto;
+    height: 80px;
+    margin-top: 822px;
+    clear: both;
+    background-color: rgba(0,0,0,0.8)
+}
+.foot1{
+    width: 1920px;
+    height: 80px;
+    float: left;
+}
+.foot1 img{
+    height: 80px;
+    float: left;
+    
+}   
+.foot1 em span{
+    color: white;
+    padding-left: 20px;
+    padding-top: 30px;
+    float: left;
+}
+.foot .contract {
+    display: flex;
+    justify-content: center;
+    width: 1000px;
+}
+.foot1 a {
+    padding-left: 20px;
+    padding-top: 30px;
+    color: white;
+    display: flex;
+    float: left;
+    
+}

@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    width: 1920px;
+    height: 800px;
+}
+.icon i{
+    padding-top: 30px;
+    font-size: 400px;
+   margin-left: 800px;
+}
+.input{
+    text-align: center;
+}
+.input input{
+    width: 300px;
+    height: 40px;
+    border: 1px solid yellowgreen;
+    border-radius: 30px;
+}
+.button{
+    text-align: center;
+}
+.button button{
+    width: 300px;
+    height: 40px;
+    border: 1px solid yellowgreen;
+    border-radius: 30px;
+}
